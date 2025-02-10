@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Operating Systems:</h3>
 <p align="left"> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
