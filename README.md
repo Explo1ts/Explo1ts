@@ -50,3 +50,7 @@
 
 ### </a>
 </p>
+ <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Explo1ts&label=Profile%20views&color=000000&style=flat" alt="Explo1ts" />
+  </p>
+</div>
