@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Exploits</h1>
-<div align="left"><img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF"
-  <br />
-<img align="right" height="200" src="https://www.neoldu.com/d/other/hacker.gif" />
-  <br />
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/4c68275a512f781093644d02ce4a168004487b4813cb2785a1d3d617d23aad0a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d506978656c6966792b53616e732673697a653d3332266475726174696f6e3d323535302670617573653d3130303026636f6c6f723d6666666666662672616e646f6d3d66616c73652677696474683d343335266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652b21" alt="Animated GIF"/>
+  <img height="200" src="https://www.neoldu.com/d/other/hacker.gif" alt="Hacker GIF"/>
+</div>
+
 <p align="center">
   With experience diving deep into coding and cybersecurity, I love exploring new technologies, mastering programming languages, and contributing to open-source projects. Whether it’s web development, software engineering, or ethical hacking, I’m always pushing the boundaries of what’s possible.
 </p>
