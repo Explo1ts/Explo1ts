@@ -9,12 +9,13 @@
 </p>
 
 ### 🔗 Check me out on
+<h3 align="left">
 <div align="left">
   <a href="https://tryhackme.com/p/OxExp101ts420" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&color=88cc14&style=for-the-badge" height="35" alt="TryHackMe"/>
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TryHackMe logo" />
   </a>
   <a href="https://discord.com/users/bfdswl4wah5qfnbpcjsr3etoc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
 </div>
 
