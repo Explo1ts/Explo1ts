@@ -1,43 +1,40 @@
 <h1 align="center">Hi 👋, I'm Exploits</h1>
-<img align="right" height="150" src="https://www.neoldu.com/d/other/hacker.gif" />
+<img align="center" height="200" src="https://www.neoldu.com/d/other/hacker.gif" />
 
----
+<p align="center">
+  With experience diving deep into coding and cybersecurity, I love exploring new technologies, mastering programming languages, and contributing to open-source projects. Whether it’s web development, software engineering, or ethical hacking, I’m always pushing the boundaries of what’s possible.
+</p>
 
-### 🌱 Currently Learning
-C, Go, and CSS3
-
----
-
-### 🔗 Check me out on
-<div align="left">
-  <a href="https://tryhackme.com/p/OxExp101ts420" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&color=88cc14&style=for-the-badge" height="35" alt="TryHackMe"/>
-  </a>
-  <a href="https://discord.com/users/bfdswl4wah5qfnbpcjsr3etoc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord"/>
-  </a>
-</div>
-
----
-
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a>
+<p align="center">
+  Check me out on: 
+  <a href="https://tryhackme.com/p/OxExp101ts420">TryHackMe</a> | 
+  <a href="https://discord.com/users/bfdswl4wah5qfnbpcjsr3etoc">Discord</a>
 </p>
 
 ---
 
-### 🎨 Frontend Development
+### 💻 Programming Languages & Frameworks
 <p align="left">
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a>
+</p>
+
+---
+
+### 🎨 Frontend & Tools
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/></a>
 </p>
 
 ---
@@ -52,6 +49,14 @@ C, Go, and CSS3
 </p>
 
 ---
+
+### 🔗 Connect With Me
+<div align="left">
+  <a href="https://tryhackme.com/p/OxExp101ts420"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&color=000000&style=for-the-badge" height="35" /></a>
+  <a href="https://discord.com/users/bfdswl4wah5qfnbpcjsr3etoc"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=000000&style=for-the-badge" height="35" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=000000&style=for-the-badge" height="35" /></a>
+  <a href="https://app.hackthebox.com/profile/"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&color=000000&style=for-the-badge" height="35" /></a>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Explo1ts&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
