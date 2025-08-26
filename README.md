@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows 8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu"/>
+  <img src="https://raw.githubusercontent.com/benlinton/awesome-dashboard-icons/main/icons/kali-linux.svg" height="40" alt="Kali Linux"/>
 </p>
 
 ---
